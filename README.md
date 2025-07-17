@@ -1,61 +1,18 @@
-# 👋 Hello, I'm Br7eleven!
-You can call me Balaj Hussain
-anyways
+# 💫 About Me:
+Hi, I'm Balaj Hussain — a Computer Science graduate and full-stack developer with a passion for building smart, useful, and fast applications. I love combining modern frontend frameworks with lightweight backends and AI integrations to solve real-world problems.<br><br>🔧 Tech I Work With:<br>- Frontend: React, Vite, Tailwind CSS, Framer Motion<br>- Backend: Node.js, PocketBase, Firebase, Supabase<br>- Tools: Docker, Git, REST APIs, Electron<br>- AI/ML: Python, NLP, OpenAI APIs, Transformers, pandas, NumPy<br><br>🧠 Currently exploring:<br>- AI-powered productivity tools<br>- NLP-based chatbots and document processors<br>- Lightweight and offline-first apps with PocketBase<br><br>📌 Based in Pakistan — building projects that actually work, not just demo fluff.<br><br>Let’s build something cool 🚀<br>
 
-Welcome to my GitHub profile!  
-I'm delighted to have you here. Whether you're a developer, collaborator, recruiter, or just curious about my work, I hope you find something interesting.
 
----
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/f3TEy8dF) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/balajhussainn) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/balajhussainn) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Br7eleven) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/Br7eleven) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/balajhussain1122@gmail.com) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@@balajhussainn) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/BalajHussainn) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:balajhussain1122@gmail.com) 
 
-## 🚀 Who Am I?
-
-I'm a **student** and a **researcher** with a deep passion for AI, Machine Learning, and Deep Learning. I love exploring the frontiers of technology and sharing my findings with the world. My journey is driven by curiosity, creativity, and a strong commitment to continuous learning and open-source collaboration.
-
----
-
-## 🛠️ Core Skills & Technologies
-
-- **Languages:** Python, JavaScript, TypeScript
-- **Frameworks:** React, Node.js, Express
-- **Specialties:** Artificial Intelligence, Machine Learning, Deep Learning
-- **DevOps & Tools:** Docker, Git, GitHub Actions
-- **Other:** Research, API Design, Testing, Agile Methodologies
+# 💻 Tech Stack:
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Electron.js](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![PocketBase](https://img.shields.io/badge/pocketbase-%23b8dbe4.svg?style=for-the-badge&logo=Pocketbase&logoColor=black) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Br7eleven&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Br7eleven&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Br7eleven&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=Br7eleven&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 🌟 Noteworthy Projects
-
-- [balajhussain-web.vercel.app](https://balajhussain-web.vercel.app) — My portfolio and showcase of select projects and research.
-- More projects coming soon—check my pinned repositories for highlights!
-
----
-
-## 📊 GitHub Stats
-
-![Br7eleven's GitHub stats](https://github-readme-stats.vercel.app/api?username=Br7eleven&show_icons=true&hide_title=true&theme=github_dark)
-
----
-
-## 🤝 Let's Connect
-
-- [Portfolio/Website](https://balajhussain-web.vercel.app)
-- 📧 Email: balajhussain1122@gmail.com
-
----
-
-## 💡 Fun Facts & Interests
-
-- I love tackling complex challenges and turning ideas into reality.
-- Always eager to learn about new technologies and research trends.
-- Passionate about community, mentorship, and sharing knowledge.
-
----
-
-## 🗣️ Motto
-
-**"Turning curiosity into discovery, and discovery into impact."**
-
----
-
-Thanks for visiting my profile!  
-Feel free to explore my repos, open issues, or reach out—I'm always open to new connections and opportunities.
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
