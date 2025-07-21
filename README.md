@@ -1,5 +1,62 @@
-# 💫 About Me:
-<h1 align="center">Hi 👋, I'm Balaj Hussain</h1><br><h3 align="center">A Web Dev + AI explorer from Pakistan</h3><br><br>---<br><br>### 🔭 I’m currently working on<br>- 🧠 An AI-powered Document Classifier + Chatbot system<br>- ⏱️ A productivity-focused To-Do + Pomodoro app with PocketBase<br><br>### 👯 I’m looking to collaborate on<br>- AI/NLP-based real-world apps<br>- Productivity tools and utilities<br>- Lightweight full-stack apps (React + PocketBase)<br><br>### 🤝 I’m looking for help with<br>- Deploying microservices with Docker & Kubernetes<br>- Optimizing real-time AI-based chatbot systems<br><br>### 🌱 I’m currently learning<br>- Reinforcement Learning for Cybersecurity<br>- OpenAI Function Calling<br>- Deploying AI models in production<br><br>### 💬 Ask me about<br>- React + Vite projects<br>- PocketBase integration<br>- Building MVPs fast<br>- Side projects that don't suck 🔥<br><br>### ### 📊 GitHub Stats<br><br><p align="center"><br>  <img src="https://github-readme-stats.vercel.app/api?username=Br7eleven&show_icons=true&theme=tokyonight" alt="balaj's stats" /><br>  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Br7eleven&theme=tokyonight" alt="streak" /><br></p><br><br>---<br><br>### 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Br7eleven/Br7eleven/main/assets/banner.png" alt="Balaj Hussain Banner" />
+</p>
+
+<h2 align="center">Building open-source tools with brains, speed, and sharp UI.</h2>
+<h4 align="center">React ⚛️ • Flask 🐍 • PocketBase ⚙️ • AI 🧠</h4>
+
+---
+
+# 💫 About Me
+
+I'm **Balaj Hussain** — a self-taught developer from Pakistan blending clean code with chaotic ideas.
+
+From browser extensions to AI-powered chatbots, I build full-stack tools that are fast, minimal, and built to ship.  
+Currently focused on merging productivity and AI — using React, Flask, PocketBase, and OpenAI’s toolkit.
+
+I like my UIs sharp, my backends fast, and my projects finished.
+
+---
+
+### 🔭 Currently Working On
+
+- An AI-powered Document Classifier & Chatbot system  
+- A To-Do + Pomodoro productivity app with PocketBase
+
+### 👯 Looking to Collaborate On
+
+- AI/NLP-based real-world apps  
+- Productivity tools  
+- Lightweight full-stack apps (React + Flask)
+
+### 🤝 Looking For Help With
+
+- Deploying microservices with Docker/Kubernetes  
+- Optimizing real-time AI chatbot systems
+
+### 🌱 Currently Learning
+
+- Reinforcement Learning for Cybersecurity  
+- OpenAI Function Calling  
+- Deploying AI models in production
+
+### 💬 Ask Me About
+
+- React + Vite projects  
+- PocketBase integration  
+- Building MVPs fast  
+- Full-stack web architecture
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Br7eleven&show_icons=true&theme=tokyonight" />
+</p>
+
+---
+
 
 
 ## 🌐 Socials:
