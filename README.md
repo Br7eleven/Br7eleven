@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Br7eleven/Br7eleven/main/assets/banner.png" alt="Balaj Hussain Banner" />
+  <img src="https://raw.githubusercontent.com/Br7eleven/Br7eleven/main/assets/banner.gif" alt="Balaj Hussain Banner" />
 </p>
 
 <h2 align="center">Building open-source tools with brains, speed, and sharp UI.</h2>
