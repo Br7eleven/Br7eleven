@@ -18,34 +18,15 @@ I like my UIs sharp, my backends fast, and my projects finished.
 
 ---
 
-### 🔭 Currently Working On
 
-- 🧠 An AI-powered Document Classifier & Chatbot system  
-- ⏱️ A To-Do + Pomodoro productivity app with PocketBase
-
-### 👯 Looking to Collaborate On
-
-- AI/NLP-based real-world apps  
-- Productivity tools  
-- Lightweight full-stack apps (React + Flask)
-
-### 🤝 Looking For Help With
-
-- Deploying microservices with Docker/Kubernetes  
-- Optimizing real-time AI chatbot systems
-
-### 🌱 Currently Learning
-
-- Reinforcement Learning for Cybersecurity  
-- OpenAI Function Calling  
-- Deploying AI models in production
 
 ### 💬 Ask Me About
 
-- React + Vite projects  
-- PocketBase integration  
-- Building MVPs fast  
-- Full-stack web architecture
+<h2 align = "center"> - React + Vite projects </h2> 
+<h2 align = "center"> - -PocketBase integration   </h2>
+<h2 align = "center"> -  Building MVPs fast     </h2>
+<h2 align = "center"> - Full-stack web architecture     </h2>
+
 
 ---
 
