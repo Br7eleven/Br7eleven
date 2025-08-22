@@ -22,10 +22,10 @@ I like my UIs sharp, my backends fast, and my projects finished.
 
 ### 💬 Ask Me About
 
-<h2 align = "center"> - React + Vite projects </h2> 
-<h2 align = "center"> - -PocketBase integration   </h2>
-<h2 align = "center"> -  Building MVPs fast     </h2>
-<h2 align = "center"> - Full-stack web architecture     </h2>
+<h3 align = "center"> - React + Vite projects </h3> 
+<h3 align = "center"> - MongoDB - postgresql - MySql   </h3>
+<h3 align = "center"> -  SaaS Applications     </h3>
+<h3 align = "center"> - Full-stack web architecture     </h3>
 
 
 ---
