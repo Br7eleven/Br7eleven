@@ -3,7 +3,7 @@
 </p>
 
 <h2 align="center">Building open-source tools with brains, speed, and sharp UI.</h2>
-<h4 align="center">React ⚛️ • Flask 🐍 • PocketBase ⚙️ • AI 🧠</h4>
+<h4 align="center">React ⚛️ • Python 🐍 • JavaScript ⚙️ • AI 🧠</h4>
 
 ---
 
