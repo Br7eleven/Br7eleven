@@ -9,10 +9,10 @@
 
 # 💫 About Me
 
-I'm **Balaj Hussain** — a self-taught developer blending clean code with chaotic ideas.
+I'm **Balaj Hussain** — a Junior developer blending clean code with chaotic ideas.
 
 From browser extensions to AI-powered chatbots, I build full-stack tools that are fast, minimal, and built to ship.  
-Currently focused on merging productivity and AI — using React, Flask, PocketBase, and OpenAI’s toolkit.
+Currently focused on merging productivity and AI — using React, Vite, Supabase, and 
 
 I like my UIs sharp, my backends fast, and my projects finished.
 
