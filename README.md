@@ -32,17 +32,11 @@ I like my UIs sharp, my backends fast, and my projects finished.
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Br7eleven&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-</p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Br7eleven&show_icons=true" /> </p> 
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Br7eleven&theme=tokyonight" />
-</p>
+<p align="center"> <img src="https://streak-stats.demolab.com?user=Br7eleven" /> </p> 
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Br7eleven&layout=compact&theme=tokyonight&langs_count=8" />
-</p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Br7eleven&layout=compact" /> </p>
 
 ---
 
