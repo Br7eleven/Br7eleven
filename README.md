@@ -41,7 +41,3 @@ My work includes full-stack applications, SaaS tools, browser-based experiences,
 - AI-powered software
 - Browser extensions and dashboards
 
-## Overview
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Br7eleven&layout=compact&hide_border=true" alt="Top languages" />
-</p>
