@@ -41,9 +41,17 @@ My work includes full-stack applications, SaaS tools, browser-based experiences,
 - AI-powered software
 - Browser extensions and dashboards
 
-## GitHub Stats
+## Overview
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Br7eleven&show_icons=true&hide_border=true&rank_icon=github" alt="GitHub stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Br7eleven&layout=compact&hide_border=true" alt="Top languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Br7eleven&hide_border=true" alt="GitHub streak" />
+</p>
+
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=Br7eleven&icon=5&color=12" alt="Profile views" />
 </p>
